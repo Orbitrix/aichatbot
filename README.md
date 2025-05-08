@@ -99,7 +99,7 @@ This project is licensed under the **MIT License**.
 Developed by **Mohd Zaid**. Feel free to connect!
 - 📧 Email: ringtones.474@gmail.com
 - 🌐 Website: [www.google.com](https://www.google.com)
-- 🐙 GitHub: [github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- 🐙 GitHub: [github.com/Orbitrix](https://github.com/Orbitrix)
 
 🚀 Happy Coding! 🎯
 
